@@ -1,0 +1,162 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 1263px;
+}
+.parnt{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(201, 231, 231, 0.836);
+    overflow: auto;
+
+}
+
+
+       /*<!-- header-->*/
+
+
+.header{
+    margin-top: -40px;
+    width: 100%;
+    height: 80px;
+    background-color: rgba(42, 42, 182, 0.973);
+    color: white;
+}
+
+
+.sigin{
+    width: 10%;
+    height: 10%;
+    padding-top: 30px;
+    float: left;    
+    padding-left: 50px;
+}
+
+.sigin input{
+    color: white;
+    background-color: rgb(75, 75, 211);
+    border: 1px solid rgb(84, 84, 179);
+    height: 20px;
+    cursor: pointer;
+}
+
+.inp{
+    width: 60%;
+    height: 100%;
+    font-size: 14px;
+    float: left;
+    padding-right: 170px;
+
+}
+
+.inp1,.inp2{
+    width: 25%;
+    height: 20%;
+    float: left;    
+    text-align: right;
+
+}
+
+.inp1 p , .inp2 p{
+    margin-top: 6px;
+    margin-bottom: 5px;
+}
+
+.p{
+    font-size: 40px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+
+       /*<!-- Body-->*/
+       
+
+.bod{
+    text-align: center;
+    width: 100%;
+    height: 600px;
+}
+
+.b1{
+    margin-left: 120px;
+}
+.b1 p{
+      margin-left: 60px;
+}
+.b1 h2{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 33px;
+    padding-top: 10px;
+}
+
+.bod input{
+    text-align: right;
+    font-size: 20px;
+    width: 150px;
+}
+#number{
+    text-align: right;
+    width: 313px;
+    margin-top: 10px;   
+}
+
+
+.pdate {
+    margin-left: 240px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+#date {
+    margin-top: 5px;    
+    border: 1px solid black;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+span{
+    margin-right: 5px;
+    color: blue;
+}
+
+
+.man{
+    margin-left: 200px;
+}
+#radio{
+    margin-top: 20px;
+    width: 30px;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+label{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+           /*<!-- foter-->*/
+
+.fotr{
+    width: 30%;
+    height: 90px;
+    margin-left: 409px;
+    text-align: center;
+    line-height: 1.3;
+    color: rgb(87, 94, 100);
+}
+.fotr input{
+     width: 190px;
+     height: 40px;
+     text-align: center;
+     font-size: 20px;
+     font-weight: bold;
+     margin-left: 170px;
+     background-color: rgb(36, 241, 98);
+     color: white;
+     border: 1px solid rgb(8, 116, 40);
+     border-radius: 5px;
+     cursor: pointer;
+
+}
+
